@@ -14,7 +14,7 @@
 	"White"	"2106-3"	"Unspecified dementia"	"F03"	"85+ years"	"85+"	"Female"	"F"	11	Not Applicable	Not Applicable
 	"White"	"2106-3"	"Acute myocardial infarction, unspecified"	"I21.9"	"55-64 years"	"55-64"	"Male"	"M"	22	Not Applicable	Not Applicable
 	"White"	"2106-3"	"Acute myocardial infarction, unspecified"	"I21.9"	"65-74 years"	"65-74"	"Male"	"M"	27	Not Applicable	Not Applicable
-	"White"	"2106-3"	"Acute myocardial infarction, unspecified"	"I21.9"	"75-84 years"	"75-84"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Acute myocardial infarction, unspecified"	"I21.9"	"75-84 years"	"75-84"	"Female"	"F"	11	Not Applicable	Not Applicable
 	"White"	"2106-3"	"Acute myocardial infarction, unspecified"	"I21.9"	"75-84 years"	"75-84"	"Male"	"M"	22	Not Applicable	Not Applicable
 	"White"	"2106-3"	"Acute myocardial infarction, unspecified"	"I21.9"	"85+ years"	"85+"	"Female"	"F"	20	Not Applicable	Not Applicable
 	"White"	"2106-3"	"Acute myocardial infarction, unspecified"	"I21.9"	"85+ years"	"85+"	"Male"	"M"	10	Not Applicable	Not Applicable
@@ -49,7 +49,8 @@
 "Title: 2018 Cause of death Midwest"
 "Autopsy: Unknown"
 "Census Regions: Census Region 2: Midwest (CENS-R2)"
-"Place of Death: Medical Facility - Inpatient; Medical Facility - Outpatient or ER"
+"Place of Death: Medical Facility - Inpatient; Medical Facility - Outpatient or ER; Medical Facility - Dead on Arrival; Medical"
+"Facility - Status unknown"
 "Year/Month: 2018"
 "Group By: Race; Cause of death; Ten-Year Age Groups; Gender"
 "Show Totals: Disabled"
@@ -60,12 +61,12 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
 "---"
-"Query Date: May 1, 2020 5:18:45 PM"
+"Query Date: May 1, 2020 11:37:25 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
 "1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
 "compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
-"at http://wonder.cdc.gov/ucd-icd10.html on May 1, 2020 5:18:45 PM"
+"at http://wonder.cdc.gov/ucd-icd10.html on May 1, 2020 11:37:25 PM"
 "---"
 Messages:
 "1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
